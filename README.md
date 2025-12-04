@@ -1,7 +1,7 @@
 <!-- Banner Image (Opcional - mantén tu imagen si te gusta, o usa una genérica de tecnología/código) -->
 
 <div align="center">
-<img src="https://imgur.com/3D7X5yz.png" width="100%" alt="Banner" />
+<img src="https://i.imgur.com/WuRirjD.jpeg" width="100%" alt="Banner" />
 </div>
 
 <h1 align="center">Hi there, I'm Tomás Emanuel Schattmann 👋</h1>
