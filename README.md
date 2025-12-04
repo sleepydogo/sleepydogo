@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/WuRirjD.jpeg" width="180" style="border-radius: 50%; box-shadow: 0 0 12px #6ab0ff;" />
   
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=6AB0FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Tomás+Emanuel+Schattmann!;Backend+Developer;Full+Stack+Engineer;Researcher+%7C+Ex-CTO" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=6AB0FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Tomás+E.+Schattmann!;Backend+Developer;Full+Stack+Engineer;Researcher+%7C+Ex-CTO" />
   </h1>
 
   <h3>
