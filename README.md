@@ -1,152 +1,165 @@
-<!-- Banner Image (Opcional - mantén tu imagen si te gusta, o usa una genérica de tecnología/código) -->
+<!-- ========================= HEADER WITH ANIMATIONS ========================= -->
 
 <div align="center">
-<img src="https://i.imgur.com/WuRirjD.jpeg" width="100%" alt="Banner" />
+  <img src="https://i.imgur.com/WuRirjD.jpeg" width="180" style="border-radius: 50%; box-shadow: 0 0 12px #6ab0ff;" />
+  
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=6AB0FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Tomás+Emanuel+Schattmann!;Backend+Developer;Full+Stack+Engineer;Researcher+%7C+Ex-CTO" />
+  </h1>
+
+  <h3>
+    🚀 Full Stack Developer • 🧠 AI & Embedded Systems • 💼 Ex-CTO • 🔥 Hackathon Winner
+  </h3>
+
+  <p>
+    <em>Bridging <strong>Technical Architecture</strong> with <strong>Business Strategy</strong> to build scalable, high-impact products.</em>
+  </p>
+
+  <!-- Social Icons -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/tomaschattmann/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  </p>
 </div>
 
-<h1 align="center">Hi there, I'm Tomás Emanuel Schattmann 👋</h1>
+---
 
-<h3 align="center">
-🚀 Semi Senior Backend Developer | 💼 Ex-CTO & Co-Founder | 🎓 Research Engineer
-</h3>
+# 🌟 Executive Summary
 
-<p align="center">
-<em>Bridging the gap between <strong>Technical Architecture</strong> and <strong>Business Strategy</strong>.</em>
-</p>
+Professional with extensive experience in **technology leadership**, **full-stack development**, and **team management**.
 
-<p align="center">
-<a href="https://linkedin.com/in/tomischattmann">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin" />
-</a>
-<a href="mailto:tomaschattmann@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact_Me-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
-</a>
-</p>
+Currently working as a **Semi Senior Backend Developer**, building **high-availability systems** using:
 
-👨‍💻 Professional Summary
+- **Python (Django/DRF)**  
+- **PostgreSQL**  
+- **AWS architectures**  
+- **Cross-platform apps (Ionic, Angular, React, Next.js)**  
 
-I am a Computer Engineering Student and Backend Specialist with a unique background in executive leadership. My experience ranges from coding high-availability APIs in Python/Django to defining the tech roadmap for a startup operating in 9+ Latin American countries.
+Former **CTO & Co-Founder**, with a 360° understanding of tech-business alignment.  
+Led the development of **60+ products** and scaled operations across **9+ LATAM countries**.
 
-I specialize in execution speed and scalability. I don't just write code; I build products that solve real business problems.
+✔ High-speed execution  
+✔ Deep technical background  
+✔ Product-oriented development  
 
-🚀 Scale: Led delivery of 60+ software products (Logistics, Mobility, Fintech, IoT).
+---
 
-🌎 Reach: Systems deployed across LatAm & Europe.
+# 💡 **This profile is a laboratory**
 
-🏆 Recognition: Winner of global hackathons (BELLA II, ETHGlobal).
+My GitHub is the best expression of my creativity:  
+✔ highly varied projects,  
+✔ AI experiments,  
+✔ microcontrollers,  
+✔ embedded systems,  
+✔ full-stack applications,  
+✔ automations,  
+✔ Web3 projects,  
+✔ and real product prototypes.
 
-🛠 Tech Stack & Arsenal
+---
+
+# 🧑‍💻 Professional Experience
+
+## 🦁 **Club Estudiantes de La Plata** — Semi Senior Backend Developer  
+**(Jun 2025 – Present)**  
+- Design of robust backend architectures in Python.  
+- Optimization of database queries and API performance.  
+- Integration of new features and improvement of core systems.  
+
+## 🚀 **Pont Solutions** — Co-Founder & Ex-CTO  
+**(2021 – 2025)**  
+Led the technology division of a company focused on logistics and transportation across LATAM.
+
+- **Product Leadership**: Directed the development of more than 50 products.  
+- **Tech Stack Expansion**: Integrated Ionic, Angular, Capacitor, Next.js, React.  
+- **End-to-End Ownership**: Architecture, DevOps, CI/CD, AWS.  
+- **Scaling**: Multi-country operations in high-urgency environments.
+
+---
+
+# 🎓 Academic Background & Research
+
+## National University of La Plata (UNLP)  
+**Advanced Computer Engineering Student**
+
+### 🔬 LIDI Research Lab – Research Collaboration
+- Development of an **autonomous chess robot** (Arduino + Raspberry Pi Pico + CV + TinyML).  
+- All AI processing executed **on the Raspberry Pi Pico**, without internet.  
+- Contributions to **EmbedIA**, a system for compressing AI models for microcontrollers.
+
+---
+
+# 🏆 Hackathons & Global Competitions
+
+### 🥇 **BELLA II Winner — Project: IGNIS**  
+- Wildfire prediction system using the **Copernicus Satellite Network**.  
+- Automatic alerts to local authorities.  
+- Presented before IDB/BID and Senacyt in Panama.
+
+### 🥇 **ETHGlobal — Worldcoin Track Winner**  
+- Real estate **tokenization dApp** (Chainlink + Worldcoin + Hardhat).
+
+### 🥇 **Tech4Good — Project: GAIA**  
+- Autonomous system with **drones** for early detection and suppression of wildfires.
+
+---
+
+# 🛠 Core Competencies
+
+## 🐍 Backend Engineering
+- Python, Django, DRF  
+- PostgreSQL, ORMs, SQL  
+- Scalable architecture & performance optimization  
+
+## 🌐 Full Stack & Mobile  
+- Angular, React, Next.js  
+- Ionic, Capacitor  
+- Typescript & modern frontend  
+- Multiplatform mobile development (Uber/Rappi-style apps)  
+
+## ☁️ Cloud & DevOps  
+- AWS: EC2, S3, RDS, Lambda  
+- Docker, GitHub Actions  
+- CI/CD & automated infrastructure  
+
+## 🤖 Emerging Tech & Low-Level  
+- TinyML, optimized AI  
+- Raspberry Pi, Arduino  
+- C programming  
+- Web3, Solidity, Smart Contracts  
+- Computer Vision  
+
+---
+
+# 🧩 Tech Stack
 
 <div align="center">
 
-Core Backend
+### Backend  
+<img src="https://skillicons.dev/icons?i=python,django,postgres,fastapi,redis" height="45"/>
 
-Frontend & Mobile
+### Frontend & Mobile  
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,ruby,capacitor,ionic" height="45"/>
 
-Cloud & DevOps
+### Cloud & DevOps  
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,nginx,googlecloud" height="45"/>
 
-Emerging Tech
-
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,django,postgres,redis,fastapi" width="50"/>
-
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dangular,react,nextjs,ionic,ts" width="50"/>
-
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Daws,docker,githubactions,linux,nginx" width="50"/>
-
-<img src="https://skillicons.dev/icons?i=raspberrypi,arduino,tensorflow,solidity" width="50"/>
-
-Python, DRF, SQL
-
-Ionic, Capacitor, Next.js
-
-AWS (EC2/S3/RDS), CI/CD
-
-TinyML, Web3, IoT
+### AI, Embedded & Web3  
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino,tensorflow,solidity,c" height="45"/>
 
 </div>
 
-💼 Key Experience
+---
 
-🦁 Club Estudiantes de La Plata | Semi Senior Backend Developer
-
-(June 2025 – Present)
-
-Developing the digital backbone of one of Argentina's major sports institutions.
-
-Architecting robust backend systems using Python & Django.
-
-optimizing database queries and API latency for high-traffic scenarios.
-
-🚀 Pont Solutions | Co-Founder & Former CTO
-
-(2021 – 2025)
-
-Grew a tech division from scratch to a regional player in Logistics & Transportation.
-
-Leadership: Directed tech strategy and scaled operations to 9+ countries.
-
-Delivery: Personally managed the lifecycle of 50+ custom platforms (Uber-style apps, ERPs).
-
-Integration: Modernized the stack by integrating React, Next.js, and Ionic with AWS infrastructure.
-
-🏆 Innovation & Awards
-
-I thrive in high-pressure environments where innovation meets execution.
-
-Award
-
-Project
-
-Tech & Impact
-
-🥇 BELLA II Winner
-
-IGNIS
-
-AI & Satellite Data. Built a wildfire detection system using Copernicus satellite networks to alert governments automatically. Presented to IDB/BID.
-
-🥇 ETHGlobal Winner
-
-Worldcoin Track
-
-Web3 & Identity. Developed a Real Estate Tokenization dApp using Chainlink and Worldcoin ID for secure verification.
-
-🥇 Tech4Good
-
-GAIA
-
-Autonomous Systems. Designed a drone network for early wildfire response and suppression.
-
-🔬 Research & Academic Focus
-
-🎓 National University of La Plata (UNLP)
-Advanced Computer Engineering Student
-
-LIDI Lab Researcher: Focused on High Performance Computing and Embedded Systems.
-
-The Chess Robot: Built an autonomous robotic arm using Computer Vision & TinyML running fully on a Raspberry Pi Pico to play chess against humans offline.
-
-Huawei Seeds for the Future (2022): Selected top talent for AI & Leadership training.
-
-📈 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com%3Fuser%3Dtomischattmann%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sleepydogo&theme=tokyonight&hide_border=true" width="410"/>
 
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dtomischattmann%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats" />
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dtomischattmann%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" />
 </div>
 
+---
+
 <div align="center">
-<p>📍 La Plata, Buenos Aires, Argentina | 📧 tomaschattmann@gmail.com</p>
-<p><em>"Building the future, one commit at a time."</em></p>
+  <p>📍 La Plata, Buenos Aires, Argentina</p>
 </div>
