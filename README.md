@@ -8,11 +8,11 @@
   </h1>
 
   <h3>
-    Full Stack Developer • AI & Embedded Systems • Ex-CTO • Hackathon Winner
+    Full Stack Developer • AI & Embedded Systems • Ex-CTO • Hackathon Lover
   </h3>
 
   <p>
-    <em>Bridging <strong>Technical Architecture</strong> with <strong>Business Strategy</strong> to build scalable, high-impact products.</em>
+    <em>kind of a mad new age scientist</em>
   </p>
 
   <!-- Social Icons -->
