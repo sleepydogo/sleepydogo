@@ -8,7 +8,7 @@
   </h1>
 
   <h3>
-    🚀 Full Stack Developer • 🧠 AI & Embedded Systems • 💼 Ex-CTO • 🔥 Hackathon Winner
+    Full Stack Developer • AI & Embedded Systems • Ex-CTO • Hackathon Winner
   </h3>
 
   <p>
@@ -23,7 +23,7 @@
 
 ---
 
-# 🌟 Executive Summary
+# Executive Summary
 
 Professional with extensive experience in **technology leadership**, **full-stack development**, and **team management**.
 
@@ -43,7 +43,7 @@ Led the development of **60+ products** and scaled operations across **9+ LATAM 
 
 ---
 
-# 💡 **This profile is a laboratory**
+# **This profile is a laboratory**
 
 My GitHub is the best expression of my creativity:  
 ✔ highly varied projects,  
@@ -57,15 +57,15 @@ My GitHub is the best expression of my creativity:
 
 ---
 
-# 🧑‍💻 Professional Experience
+# Professional Experience
 
-## 🦁 **Club Estudiantes de La Plata** — Semi Senior Backend Developer  
+## **Club Estudiantes de La Plata** — Semi Senior Backend Developer  
 **(Jun 2025 – Present)**  
 - Design of robust backend architectures in Python.  
 - Optimization of database queries and API performance.  
 - Integration of new features and improvement of core systems.  
 
-## 🚀 **Pont Solutions** — Co-Founder & Ex-CTO  
+## **Pont Solutions** — Co-Founder & Ex-CTO  
 **(2021 – 2025)**  
 Led the technology division of a company focused on logistics and transportation across LATAM.
 
@@ -76,52 +76,52 @@ Led the technology division of a company focused on logistics and transportation
 
 ---
 
-# 🎓 Academic Background & Research
+# Academic Background & Research
 
 ## National University of La Plata (UNLP)  
 **Advanced Computer Engineering Student**
 
-### 🔬 LIDI Research Lab – Research Collaboration
+### LIDI Research Lab – Research Collaboration
 - Development of an **autonomous chess robot** (Arduino + Raspberry Pi Pico + CV + TinyML).  
 - All AI processing executed **on the Raspberry Pi Pico**, without internet.  
 - Contributions to **EmbedIA**, a system for compressing AI models for microcontrollers.
 
 ---
 
-# 🏆 Hackathons & Global Competitions
+# Hackathons & Global Competitions
 
-### 🥇 **BELLA II Winner — Project: IGNIS**  
+### **BELLA II Winner — Project: IGNIS**  
 - Wildfire prediction system using the **Copernicus Satellite Network**.  
 - Automatic alerts to local authorities.  
 - Presented before IDB/BID and Senacyt in Panama.
 
-### 🥇 **ETHGlobal — Worldcoin Track Winner**  
+### **ETHGlobal — Worldcoin Track Winner**  
 - Real estate **tokenization dApp** (Chainlink + Worldcoin + Hardhat).
 
-### 🥇 **Tech4Good — Project: GAIA**  
+### **Tech4Good — Project: GAIA**  
 - Autonomous system with **drones** for early detection and suppression of wildfires.
 
 ---
 
-# 🛠 Core Competencies
+# Core Competencies
 
-## 🐍 Backend Engineering
+## Backend Engineering
 - Python, Django, DRF  
 - PostgreSQL, ORMs, SQL  
 - Scalable architecture & performance optimization  
 
-## 🌐 Full Stack & Mobile  
+## Full Stack & Mobile  
 - Angular, React, Next.js  
 - Ionic, Capacitor  
 - Typescript & modern frontend  
 - Multiplatform mobile development (Uber/Rappi-style apps)  
 
-## ☁️ Cloud & DevOps  
+## Cloud & DevOps  
 - AWS: EC2, S3, RDS, Lambda  
 - Docker, GitHub Actions  
 - CI/CD & automated infrastructure  
 
-## 🤖 Emerging Tech & Low-Level  
+## Emerging Tech & Low-Level  
 - TinyML, optimized AI  
 - Raspberry Pi, Arduino  
 - C programming  
@@ -130,7 +130,7 @@ Led the technology division of a company focused on logistics and transportation
 
 ---
 
-# 🧩 Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -150,7 +150,7 @@ Led the technology division of a company focused on logistics and transportation
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
