@@ -1,18 +1,8 @@
 <!-- ========================= HEADER WITH ANIMATIONS ========================= -->
 
 <div align="center">
-  <img src="https://i.imgur.com/WuRirjD.jpeg" width="180" style="border-radius: 50%; box-shadow: 0 0 12px #6ab0ff;" />
-  
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=6AB0FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Tomás+E.+Schattmann!;Backend+Developer;Full+Stack+Engineer;Researcher+%7C+Ex-CTO" />
-  </h1>
-
-  <h3>
-    Full Stack Developer • AI & Embedded Systems • Ex-CTO • Hackathon Lover
-  </h3>
-
   <p>
-    <em>kind of a mad new age scientist</em>
+    <em>im just a builder </em>
   </p>
 
   <!-- Social Icons -->
